@@ -1,6 +1,3 @@
-__author__ = "Bowen Liu"
-__copyright__ = "Copyright 2018, Stanford University"
-
 import pandas as pd
 import networkx as nx
 from rdkit import Chem
