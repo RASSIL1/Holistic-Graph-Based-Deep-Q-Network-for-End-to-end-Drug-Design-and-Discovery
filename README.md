@@ -24,5 +24,5 @@ Refer to the individual scripts for more detailed instructions.
 
 ## Citation
 
-If you use this code in your research, please cite the associated paper.
+If you use this code in your research, please cite the associated paper
 "Holistic-Graph-Based-Deep-Q-Network-for-End-to-end-Drug-Design-and-Discovery" 
