@@ -1,5 +1,5 @@
 config = {
-    'data_path': 'data/processed/dataset.csv',
+    'data_path': 'data/processed/zinc_plogp_sorted.csv',
     'batch_size': 32,
     'learning_rate': 0.001,
     'epochs': 100,
